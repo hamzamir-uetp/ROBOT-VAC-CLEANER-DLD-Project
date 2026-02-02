@@ -1,7 +1,7 @@
 # 🤖 B5 Vac Bomber – Autonomous Cleaning Robot
 > A custom-engineered, remote-controlled vacuum prototype built with Arduino and PVC fabrication.
 
-!(media/Side View.jpeg)
+![B5 Vac Bomber Side View](media/Side%20View.jpeg)
 
 ## 📖 About The Project
 The **B5 Vac Bomber** is a 3rd Semester Digital Logic Design (DLD) capstone project. Unlike standard kits, this robot features a **hand-fabricated PVC body** designed for aerodynamic efficiency and a **dual-power architecture** to handle high-current loads.
@@ -37,9 +37,12 @@ We implemented a split-power design:
 ---
 
 ## 🚀 How to Run
-1.  Clone the repo: `git clone https://github.com/YourUsername/B5-Vac-Bomber.git`
+1.  Clone the repo:
+    ```bash
+    git clone [https://github.com/hamzamir-uetp/ROBOT-VAC-CLEANER-DLD-Project-.git](https://github.com/hamzamir-uetp/ROBOT-VAC-CLEANER-DLD-Project-.git)
+    ```
 2.  Open `src/main.ino` in Arduino IDE.
-3.  Install the required library (if any).
+3.  Install the required library (`AFMotor`).
 4.  Connect Arduino via USB and Upload.
 5.  Pair with HC-05 (Password: `1234`) via Bluetooth Terminal app.
 
@@ -47,8 +50,8 @@ We implemented a split-power design:
 
 ## 👨‍💻 The Team
 Built by Computer Systems Engineering Students @UET Peshawar:
-* **Hamza Mir** 
-* **Samiullah Sardar**
-* **Hashir Ali** 
+* **Hamza Mir**
+* **Samiullah**
+* **Hashir Ali**
 
 This project is open-source. Feel free to use the schematics for your own learning!
