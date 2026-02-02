@@ -1,7 +1,7 @@
 # 🤖 B5 Vac Bomber – Autonomous Cleaning Robot
 > A custom-engineered, remote-controlled vacuum prototype built with Arduino and PVC fabrication.
 
-![Project Hero Shot](media/side_view.jpeg)
+(media/Side%20View.jpeg)
 
 ## 📖 About The Project
 The **B5 Vac Bomber** is a 3rd Semester Digital Logic Design (DLD) capstone project. Unlike standard kits, this robot features a **hand-fabricated PVC body** designed for aerodynamic efficiency and a **dual-power architecture** to handle high-current loads.
@@ -46,7 +46,7 @@ We implemented a split-power design:
 ---
 
 ## 👨‍💻 The Team
-Built by Computer Systems Engineering Students @ [UET Peshawar]:
+Built by Computer Systems Engineering Students @UET Peshawar:
 * **Hamza Mir** 
 * **Samiullah Sardar**
 * **Hashir Ali** 
