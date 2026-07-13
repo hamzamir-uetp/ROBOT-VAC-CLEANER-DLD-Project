@@ -1,5 +1,5 @@
-# 🤖 B5 Vac Bomber – Autonomous Cleaning Robot
-> A custom-engineered, remote-controlled vacuum prototype built with Arduino and PVC fabrication.
+# 🤖 B5 Vac Bomber – Mobile-Controlled Cleaning Robot
+> A custom-engineered, mobile-controlled vacuum prototype built with Arduino and PVC fabrication.
 
 ![B5 Vac Bomber Side View](media/Side%20View.jpeg)
 
